@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCL7KjBB31DgN+xrJqfFkgzHUbiI/Dw8Bv1U7ZuWB8q65IDLNw5WC2GNd0hOJ2adlwlhXqkl0TlpkzY6chKPww==",
+  "success": true,
+  "projectFilePath": "D:\\Egyetem\\csharp\\PasswordManager\\PasswordManager\\PasswordManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dávid\\.nuget\\packages\\cryptography.fernet\\1.1.1\\cryptography.fernet.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dávid\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Dávid\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

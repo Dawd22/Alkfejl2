@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PasswordManager": {
+      "commandName": "Project",
+      "commandLineArgs": "--workdir= D:\\Egyetem\\csharp\\PasswordManager\\PasswordManager\\Resources login --username=tiborka --password=1234567 list"
+    }
+  }
+}
